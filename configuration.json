@@ -1,0 +1,7 @@
+{
+  "annualInterestRate": 5,
+  "loanFee": {
+    "percentage": 1,
+    "charge": 10000
+  }
+}
